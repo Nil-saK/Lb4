@@ -1,0 +1,11 @@
+<style>body {background-color: rgb(72, 209, 204); }</style>
+
+
+<!-- Желтый квадрат -->
+<div style="width: 100px; height: 100px; margin: 5px; border: 10px solid blue; background-color: yellow;">
+  <div style="width: 80px; height: 80px; background-color: red; margin: 10px;"></div>
+</div>
+
+<img src="img-1.jpg" alt="map" usemap="#map" style="height: 150px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); ">
+
+
